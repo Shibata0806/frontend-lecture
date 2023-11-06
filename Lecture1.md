@@ -11,6 +11,7 @@
 ## Webとブラウザ
 
 - Webの歴史
+  - 参考動画: <https://youtu.be/jBksc8SdUF8?t=1242>
 - ブラウザについて
 
 ## エディター
