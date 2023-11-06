@@ -54,6 +54,10 @@
 - useMemo
 - useCallback
 
+### コンポーネント指向
+
+### 仮装DOM
+
 ## 課題
 
 - TODOをReactで実装してみよう
