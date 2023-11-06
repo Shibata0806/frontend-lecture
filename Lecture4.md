@@ -1,4 +1,4 @@
-# 現代的のJavaScript
+# モダンJavaScript
 
 ## Node.js
 
@@ -15,10 +15,10 @@
 - Prettierとは/ESLintとは
 - Prettier/ESLintの設定
 
-### Webpack
+### webpack
 
-- Webpackとは
-- Webpackの設定
+- webpackとは
+- webpackの設定
 
 ### Babel
 
@@ -34,5 +34,5 @@
   - npm
   - package.json
   - PrettierとESLint
-  - Webpack
+  - webpack
   - Babel

@@ -53,7 +53,7 @@
 
 ### CSSライブラリの紹介
 
-- BootStrapなど流行ってるCSSライブラリ
+- Bootstrapなど流行ってるCSSライブラリ
 
 ## 課題
 
