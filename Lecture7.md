@@ -25,6 +25,10 @@
   - DOM SnapShot Testとは
   - テストコードを書いてみる
 
+### ディレクトリ構成
+
+- co-location pattern
+
 ## 課題
 
 - ReactRouterを用いて複数ページのTODOアプリを作ろう
