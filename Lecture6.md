@@ -53,6 +53,12 @@
 
 ### 仮装DOM
 
+## パフォーマンスチューニング
+
+- React.memo
+- useMemo
+- useCallback
+
 ## 課題
 
 - TODOをReactで実装してみよう

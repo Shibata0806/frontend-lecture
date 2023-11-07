@@ -1,32 +1,29 @@
 # React
 
-## パフォーマンスチューニング
+## ライブラリを組み合わせたReact開発
 
-- React.memo
-- useMemo
-- useCallback
+### ルーティング
 
-## ReactRouter
-
-- ReactRouterとは
-- 使用方法（`BrowserRouter`, `Routes`, `Route`, `Link`）
+- ルーティングとは
+- ReactRouterとその使用方法（`BrowserRouter`, `Routes`, `Route`, `Link`）
 - useNavigateフックの紹介
 
-## テスト
+### 状態管理ライブラリ
 
-### フロントエンドにおけるテストとは
+- 状態管理ライブラリとは
+  - Recoil
+  - Jotai
 
-### Jest
+### テスト
 
-### 単体テスト
-
-- ReactTestingLibrary
-- テストコードを書いてみる
-
-### DOM SnapShot Test
-
-- DOM SnapShot Testとは
-- テストコードを書いてみる
+- フロントエンドにおけるテストとは
+  - Jest
+- 単体テスト
+  - ReactTestingLibrary
+  - テストコードを書いてみる
+- DOM SnapShot Test
+  - DOM SnapShot Testとは
+  - テストコードを書いてみる
 
 ## 課題
 
