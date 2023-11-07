@@ -49,11 +49,6 @@
 - ライフサイクルとは？
 - useEffect
 
-### その他のフックの紹介
-
-- useMemo
-- useCallback
-
 ### コンポーネント指向
 
 ### 仮装DOM
