@@ -15,11 +15,11 @@
 - データフェッチライブラリとは
 - TanStack Queryの紹介
 
-### サーバーサイドレンダリング
+### Next.js
 
-- サーバーサイドレンダリングとは？
+- SSR
   - SPAの苦手な初期描画を克服
   - SEO対策
-- Next.jsの紹介
-  - SSR / SSG / ISR
-  - AppRouterの紹介
+- pagesディレクトリの動的ルーティング
+- SSG/ISRの紹介
+- AppRouterの紹介（新しく出たよ！程度の紹介）
